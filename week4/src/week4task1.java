@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class wekk4task1 {
+public class week4task1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String string,pattern;
